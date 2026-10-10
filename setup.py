@@ -4,9 +4,9 @@ setup(
     name="vol-surface-builder",
     version="0.2.1",
     description="Implied volatility surface construction from equity option chains",
-    author="Leo",
-    author_email="tabbakhianhatef@gmail.com",
-    url="https://github.com/Leotaby/vol-surface-builder",
+    author="hemanthsrp",
+    author_email="bahubali.hemanth11@gmail.com",
+    url="https://github.com/hemanthsrp/vol-surface-builder-main",
     packages=find_packages(),
     python_requires=">=3.10",
     install_requires=[
